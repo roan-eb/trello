@@ -1,0 +1,35 @@
+{
+    "title": "Todo",
+    "activities": [
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium enim cum quidem vitae ex in, provident culpa dolore inventore eaque possimus tempora dolorum, accusamus sit! Error impedit excepturi inventore omnis. ",
+            "label": "Vandaag",
+            "extraClass": "",
+            "author": "RB"
+        },
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium enim cum quidem vitae ex in, provident culpa dolore inventore eaque possimus tempora dolorum, accusamus sit! Error impedit excepturi inventore omnis. ",
+            "label": "Morgen",
+            "extraClass": "tomorrow",
+            "author": "ER"
+        },
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium enim cum quidem vitae ex in, provident culpa dolore inventore eaque possimus tempora dolorum, accusamus sit! Error impedit excepturi inventore omnis. ",
+            "label": "Weekend",
+            "extraClass": "weekend",
+            "author": "PM"
+        },
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium enim cum quidem vitae ex in, provident culpa dolore inventore eaque possimus tempora dolorum, accusamus sit! Error impedit excepturi inventore omnis. ",
+            "label": "Volgende week",
+            "extraClass": "nextWeek",
+            "author": "ST"
+        },
+        {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium enim cum quidem vitae ex in, provident culpa dolore inventore eaque possimus tempora dolorum, accusamus sit! Error impedit excepturi inventore omnis. ",
+            "label": "Ooit",
+            "extraClass": "sometime",
+            "author": "NR"
+        }
+    ]
+}
